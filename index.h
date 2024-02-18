@@ -4,7 +4,7 @@ const char INDEX_Page[] PROGMEM=R"=====(
 <head>
 <meta charset="utf-8">
 <title>GPS Config Page</title>
-<meta name="generator" content="Abbas Soltani">
+<meta name="generator" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>div#container { width:952px; position:relative; margin:0 auto 0 auto; text-align:left; }
 body { background-color:#FFFFFF; color:#000000; font-family:Arial; font-weight:normal; font-size:13px; line-height:1.1875; margin:0; text-align:center; }
